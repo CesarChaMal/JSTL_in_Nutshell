@@ -15,7 +15,7 @@ gen
 Obj
 target
 proguard
-
+nbproject
 
 # dependencies
 node_modules
@@ -39,6 +39,7 @@ bower_components
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
 
 # misc
 .sass-cache
